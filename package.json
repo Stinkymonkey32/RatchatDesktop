@@ -1,0 +1,20 @@
+{
+  "name": "ratchat-desktop",
+  "version": "1.0.0",
+  "description": "Ratchat app for PC",
+  "homepage": "https://github.com/Stinkymonkey32/RatchatDesktop#readme",
+  "bugs": {
+    "url": "https://github.com/Stinkymonkey32/RatchatDesktop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stinkymonkey32/RatchatDesktop.git"
+  },
+  "license": "ISC",
+  "author": "Ratnet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
